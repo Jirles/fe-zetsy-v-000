@@ -81,6 +81,10 @@ a:visited {
   padding: 0;
 }
 
+.press-images a:hover {
+  color: #727E7A;
+}
+
 footer {
   clear: both;
   font-size: 0.75em;
