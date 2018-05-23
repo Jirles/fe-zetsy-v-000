@@ -32,3 +32,7 @@ figure img {
   border: 5px solid #879D95;
   max-width: 100%;
 }
+
+figure.press-images img {
+  border-color: #eee;
+}
