@@ -22,9 +22,9 @@ body {
 
 h1 {
   font-family: 'Libre Baskerville', serif;
-  color: rbg(156,172,166);
+  color: rbg(135,157,149);
 }
 
 figure {
-  border: 5px solid rbg(156,172,166);
+  border: 5px solid rbg(135,157,149);
 }
