@@ -29,7 +29,7 @@ h1 {
 }
 
 figure {
-  padding = 0;
+  padding-left: 0;
 }
 
 #main-image img {
