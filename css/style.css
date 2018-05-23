@@ -30,4 +30,5 @@ h1 {
 
 figure {
   border: 5px solid #879D95;
+  max-width: 100%;
 }
