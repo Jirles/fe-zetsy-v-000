@@ -50,6 +50,10 @@ a:link {
   color: #387AAB;
 }
 
+a:visited {
+  text-transform: underline;
+}
+
 .press-images img {
   border: 5px solid #ccc;
   float: left;
