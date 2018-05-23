@@ -22,11 +22,11 @@ body {
 
 h1 {
   font-family: 'Libre Baskerville', serif;
-  color: rbg(135,157,149);
+  color: #879D95;
   padding: 20px 0;
-  border-bottom: 1px solid rbg(135,157,149);
+  border-bottom: 1px solid #879D95;
 }
 
 figure {
-  border: 5px solid rbg(135,157,149);
+  border: 5px solid #879D95;
 }
