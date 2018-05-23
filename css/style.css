@@ -30,6 +30,10 @@ h1 {
   border-bottom: 1px solid rgba(135,157,149,0.35);
 }
 
+#home-link:hover {
+  transition: color ;
+}
+
 h2 {
   color: #727E7A;
   font-size: 2em;
