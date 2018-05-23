@@ -22,6 +22,7 @@ body {
 
 h1 {
   font-family: 'Libre Baskerville', serif;
+  font-size: 1em;
   font-weight: 700;
   color: #879D95;
   padding: 20px 0;
@@ -50,5 +51,5 @@ figure {
 
 footer {
   clear: both;
-  
+  font-size: 10px;
 }
