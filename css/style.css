@@ -51,11 +51,11 @@ a:link {
 }
 
 a:hover {
-  
+  text-decoration: underline;
 }
 
 a:visited {
-  text-transform: underline;
+  text-decoration: underline;
 }
 
 .press-images img {
