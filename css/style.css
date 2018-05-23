@@ -36,5 +36,6 @@ figure img {
 figure.press-images img {
   border-color: #ccc;
   float: left;
-  width: 23%
+  width: 23%;
+  margin: 0 1%;
 }
