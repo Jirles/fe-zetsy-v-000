@@ -37,6 +37,9 @@ figure {
   padding-left: 0;
 }
 
+p {
+  color: #7E8DA0;
+}
 #main-image img {
   border: 5px solid #879D95;
   max-width: 100%;
