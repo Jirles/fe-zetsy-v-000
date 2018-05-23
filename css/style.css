@@ -23,7 +23,7 @@ body {
 h1 {
   font-family: 'Libre Baskerville', serif;
   color: rbg(135,157,149);
-  padding: 0 20px;
+  padding: 20px 0;
 }
 
 figure {
