@@ -26,6 +26,7 @@ h1 {
   font-weight: 700;
   color: #879D95;
   padding: 20px 0 10px;
+  margin: 0 auto;
   border-bottom: 1px solid rgba(135,157,149,0.75);
 }
 
