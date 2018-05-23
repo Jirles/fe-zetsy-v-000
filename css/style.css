@@ -50,6 +50,10 @@ a:link {
   color: #387AAB;
 }
 
+a:hover {
+  
+}
+
 a:visited {
   text-transform: underline;
 }
