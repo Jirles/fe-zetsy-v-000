@@ -24,6 +24,7 @@ h1 {
   font-family: 'Libre Baskerville', serif;
   color: rbg(135,157,149);
   padding: 20px 0;
+  border-bottom: 1px solid #eee;
 }
 
 figure {
