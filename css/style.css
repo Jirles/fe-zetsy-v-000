@@ -81,7 +81,7 @@ a:visited {
   padding: 0;
 }
 
-.press-images a:hover {
+.press-images a:hover img {
   border-color: #727E7A;
 }
 
