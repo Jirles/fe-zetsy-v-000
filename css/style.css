@@ -52,6 +52,7 @@ p {
 
 a:link {
   color: #387AAB;
+  text-decoration: none;
 }
 
 a:hover {
