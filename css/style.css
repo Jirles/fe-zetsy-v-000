@@ -82,7 +82,7 @@ a:visited {
 }
 
 .press-images a:hover {
-  color: #727E7A;
+  border-color: #727E7A;
 }
 
 footer {
