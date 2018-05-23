@@ -28,6 +28,10 @@ h1 {
   border-bottom: 1px solid #879D95;
 }
 
+figure {
+  padding = 0;
+}
+
 #main-image img {
   border: 5px solid #879D95;
   max-width: 100%;
