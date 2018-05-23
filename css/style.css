@@ -39,3 +39,7 @@ figure.press-images img {
   width: 23%;
   margin: 0 2px;
 }
+
+footer {
+  clear: both;
+}
